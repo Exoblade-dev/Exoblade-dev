@@ -86,6 +86,48 @@
 </p>
 
 ---
+### 🧭 Activity Insight (Spider Graph)
+
+<p align="center">
+  <img src="https://github.com/Exoblade-dev/github-metrics/blob/main/metrics.plugin.activity.svg" alt="GitHub Activity Radar Chart" width="400"/>
+</p>
+
+> *Get a visual breakdown of commits, PRs, code reviews & more — just like GitHub UI!*
+### 🧠 Personal Dev Quadrant
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Exoblade-dev/github-profile/main/assets/dev-quadrant.svg" alt="Dev Quadrant" width="350"/>
+</p>
+
+> 💡 *Visualizer of your dev personality: Innovator | Explorer | Grinder | Tinkerer*
+### 🏆 Dev Achievements
+
+- 🖥️ First full Figma-to-React project live ✅
+- 🎮 Started building a Unity mini game
+- 🔧 Built custom hover animations with CSS
+- 💬 Helped peers debug React useEffect issues
+- 🐧 Installed Arch Linux without rage-quitting 😅
+### 🏙 GitHub Skyline (3D Contribution City)
+
+<p align="center">
+  <img src="https://github.com/Exoblade-dev/github-profile/blob/main/assets/skyline.png" width="500" />
+</p>
+
+> *See your contributions visualized like a 3D city skyline! Generated via [skyline.github.com](https://skyline.github.com/)*
+### ⏱ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+### 🔧 Random Dev Tip
+
+> 💬 *Write code as if the person maintaining it is a violent psychopath who knows where you live.*
+### 🌍 Visitor GeoMap (Experimental)
+
+<p align="center">
+  <img src="https://github.com/Exoblade-dev/github-profile/blob/main/assets/worldmap.svg" width="500"/>
+</p>
+
+> 🧭 *A visual map showing where people view your GitHub from*
 
 ### 📌 Pinned Projects (Tip)
 
