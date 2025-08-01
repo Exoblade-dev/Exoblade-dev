@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently focused on **React** and building full-stack web projects  
-- 🌱 Learning **backend**, **C++**, and exploring **Linux for dev + security**  
-- 💡 Fan of motion design and creative hover animations  
-- 🎮 Passionate about Souls-like games and controller-based gameplay  
+- 🔭 Currently focused on **React** and building full-stack web projects
+- 🌱 Learning **backend**, **C++**, and exploring **Linux for dev + security**
+- 💡 Fan of motion design and creative hover animations
+- 🎮 Passionate about Souls-like games and controller-based gameplay
 - 🎯 Goal: Be consistent and level up each day — no excuses, just progress!
 
 ---
@@ -20,27 +20,53 @@
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,python,c,cpp,linux,git,github,vscode,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,c,cpp,linux,vscode,figma,github,git,unity&theme=light" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Exoblade-dev&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exoblade-dev&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&layout=compact&hide_border=true&theme=gruvbox" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Exoblade-dev&theme=flat&column=7&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Exoblade-dev&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ### 🚀 Currently Working On
 
-- ✨ Making animations using **GSAP** and CSS  
-- 💼 Responsive web apps with **React**  
-- 🔐 Exploring **Linux + Backend Dev + CyberSec**  
+- ✨ Making animations using **GSAP** and CSS
+- 💼 Responsive web apps with **React**
+- 🔐 Exploring **Linux + Backend Dev + CyberSec**
 - 📈 Improving productivity & time management skills
 
 ---
 
 ### 🎯 2025 Goals
 
-- ⚡ Build more projects with **React + Backend**  
-- 🎮 Release a mini indie game on itch.io  
-- 💻 Get proficient in **Linux & Shell scripting**  
-- 🤝 Collaborate on open-source  
-- 🚀 Grow GitHub and LinkedIn network  
+- ⚡ Build more projects with **React + Backend**
+- 🎮 Release a mini indie game on itch.io
+- 💻 Get proficient in **Linux & Shell scripting**
+- 🤝 Collaborate on open-source
+- 🚀 Grow GitHub and LinkedIn network
 - 📚 Learn **C++** deeply and start DSA
 
 ---
@@ -48,24 +74,11 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Exoblade-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link-here/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:exoblade.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/your-reddit-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
+  <a href="https://github.com/Exoblade-dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-link-here/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:exoblade.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@yourchannel" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
-
-> 💬 *Let's connect — whether it's tech, games, or projects.*
 
 ---
 
@@ -85,14 +98,14 @@
 
 ### 📌 Pinned Projects (Tip)
 
-> You can manually **pin repos** like your Myntra Clone, Cynthia Ugwu Clone, and Shaadi.com Clone on your profile using GitHub’s **“Customize Your Pins”** feature.
+> You can manually **pin repos** like your Myntra Clone, Cynthia Ugwu Clone, and Shaadi.com Clone on your profile using GitHub’s native **“Customize Your Pins”** feature.
 
 ---
 
 ### ⚡ Fun Fact
 
-- I’ve built full websites from **Figma design to code**  
-- My controller gaming setup runs great even on **Intel Iris Xe**  
+- I’ve built full websites from **Figma design to code**
+- My controller gaming setup runs great even on **Intel Iris Xe**
 - I like to keep my workflow minimal but productive
 
 ---
