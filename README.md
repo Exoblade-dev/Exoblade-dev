@@ -1,29 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h3 align="center">Web Developer | Game Developer | Video Editor</h3>
 
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Sahil** — a self-taught **Web Developer**, **Game Developer**, and **Video Editor** from India 🇮🇳. I’m currently focused on sharpening my skills, building real-world projects, and exploring the depths of technology and storytelling.<br><br>---<br><br>### 💻 Tech Stack & Learning Journey<br><br>- 🌐 **Web Dev**: HTML, CSS, JavaScript (currently learning React.js), Bootstrap, Tailwind CSS<br>- 🧠 **Languages**: <br>  - Intermediate in **C**<br>  - Beginner in **Python** (will resume soon)<br>  - Planning to learn **C++** after mastering JavaScript<br>- 📁 **Tools & Tech**: Git, GitHub, VS Code, Linux (Parrot OS for backend & hacking), Visual Studio for C, Unity (game dev)<br>- 🔨 **Projects**: Completed multiple clones including:<br>  - 👕 **Myntra Clone**<br>  - 💍 **Shaadi.com Clone**<br>  - 🎨 A website fully based on Figma design<br>- 🚧 Currently building a strong GitHub portfolio, planning to improve LinkedIn & launch my personal portfolio site<br><br>---<br><br>### 🎯 My Goals<br><br>- Become an independent, dependable full-stack developer<br>- Build immersive digital experiences through storytelling & design<br>- Improve daily in coding, typing (currently ~44 WPM), and tech fluency<br>- Stay grounded while pursuing bigger dreams — **dreams give me courage** ✨<br><br>---<br><br>### 🎮 Gaming Is Life<br><br>Gaming isn't just fun for me — it's inspiration. I love exploring narrative depth, gameplay innovation, and games that challenge the mind and reflexes.<br><br>#### 🐉 Favorite Genres & Games:<br><br>- 🥷 **Souls-like** (high difficulty, deep lore)<br>  - Favorite: **Sekiro: Shadows Die Twice** ✅ (completed)<br>  - Currently: **Elden Ring**<br>  - Next: **Dark Souls III**, maybe **Nioh**<br><br>- 🌍 **Open World / Story-Rich Games**<br>  - Drawn to immersive narratives, **mind-blowing gameplay**, and **multiple endings**<br>  - Games that **make you think** and **push your limits** are my kind of fun<br><br>- ⚔️ **2D Platformers / Indie Gems**<br>  - 💔 **Hollow Knight** (finished — unforgettable experience)<br>  - Always looking for more titles with tight mechanics and rich worlds<br><br>- 🔫 **Multiplayer Shooters**<br>  - 🎯 **Valorant** — I jump in occasionally for that tactical thrill<br><br>- 🏎️ **Racing**<br>  - 🚘 **Asphalt 9: Legends (Vertren player,Top 1000 in world ranking)**<br>  - 🌄 **Forza Horizon 4** (demo tested — love the visuals and vibe)<br><br>- 🛠️ **Terraria (Legendary Seed Run)**<br>  - The **hardest** game I've played — **Legendary Zenith Seed** world finished 💀<br>  - Faced every boss in **fair fights**, no exploits, no cheese — just **raw skill**<br>  - Took on the madness with a friend — that co-op journey was **unforgettable**<br>  - I consider this one of my **greatest gaming achievements ever**<br><br>---<br><br>### 🧠 Interests Beyond Code<br><br>- 💡 Deeply fascinated by philosophy, space-time, higher dimensions & existential thoughts<br>- 🧘‍♂️ I reflect often on **choice, reality, and the nature of being**<br>- 🗣️ Love deep conversations — even if I don’t talk much, I always **think deeply**<br><br>---<br><br>### 📫 Connect With Me<br><br>- 📧 [som.shah191513114@gmail.com](mailto:som.shah191513114@gmail.com)<br>- 🔗 [GitHub](https://github.com/Exoblade-dev)<br>- 💼 [LinkedIn](https://www.linkedin.com/in/som-anand-11bb97337)<br>- 🌐 Portfolio (Coming soon)<br><br>---<br><br>> “You only conquer the world if you first conquer yourself.”<br><br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kHsEh2JZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/som-anand-11bb97337) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Sahil-Yt/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/exoblade_007) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Exoblade7) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Som10022006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:som.shah191513114@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Exoblade-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Exoblade-dev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Exoblade-dev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Exoblade-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+beautiful+UIs+with+React;Web+Dev+Enthusiast;Learning+and+Growing+Everyday;Let's+build+together!" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Exoblade-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+- 🎯 I’m a passionate **Web Developer**, **Game Developer (Unity)**, and **Video Editor**
+- 🔭 Currently working on sharpening my **JavaScript** and **React** skills
+- 🌱 Learning **Backend development** and planning to explore **C++**
+- 💻 Love turning UI/UX designs into responsive websites
+- 🎮 Fan of Souls-like games & racing titles | 🎬 Storytelling lover
+- 📫 How to reach me: **[exoblade.dev@gmail.com](mailto:exoblade.dev@gmail.com)**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,c,linux,github,vscode,figma,unity&theme=light" />
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+
+- 💻 Visual Studio Code / Visual Studio
+- 🐧 Linux (Ubuntu & Parrot OS for backend/ethical hacking)
+- 🎮 Unity Engine
+- 🖼️ Figma for UI/UX work
+- 📹 Clipchamp & Premiere Pro (Video Editing)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Exoblade-dev&show_icons=true&theme=default&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exoblade-dev&theme=default&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&layout=compact&hide_border=false" />
+</p>
+
+---
+
+### 🚀 What I'm Currently Working On
+
+- ✍️ Daily practice on **JavaScript** & **React**
+- 💼 Building real-world clones and portfolio sites
+- 🐧 Prepping for **Linux dual boot** for backend + hacking
+- ⚒️ Experimenting with motion effects and hover animations
+
+---
+
+### 🎯 2025 Goals
+
+- ✅ Master core web technologies
+- ✅ Improve typing speed to 60+ WPM
+- 📘 Learn **C++** and **advanced backend**
+- 🌐 Grow my GitHub and LinkedIn presence
+- 🧠 Make contributions to open-source projects
+- 🕹️ Publish a small game on itch.io or GitHub Pages
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Exoblade-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link-here/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@yourchannel" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Sahil</strong>
+</p>
