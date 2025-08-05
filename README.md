@@ -87,17 +87,14 @@
 
 ---
 
-### 📌 Pinned Projects (Tip)
+### ⚡ Fun Facts About Me  
 
-> You can manually **pin repos** like your Myntra Clone, Cynthia Ugwu Clone, and Shaadi.com Clone on your profile using GitHub’s native **“Customize Your Pins”** feature.
-
----
-
-### ⚡ Fun Fact
-
-- I’ve built full websites from **Figma design to code**
-- My controller gaming setup runs great even on **Intel Iris Xe**
-- I like to keep my workflow minimal but productive
+- 🏹 Just like Archer, I believe in **Unlimited Code Works**.  
+- 🎮 My favorite design pattern is **“Git Gud.”**  
+- ✍️ I write cleaner **CSS** than my handwriting.  
+- 🎨 I treat every `<div>` like a masterpiece.  
+- 🏆 I once center-aligned a `<div>` without Googling — it felt **legendary**.  
+- 🎯 I paused **game development**… but not my grind for **clean UI**.  
 
 ---
 
