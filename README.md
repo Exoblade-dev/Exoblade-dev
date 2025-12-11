@@ -48,7 +48,7 @@ My background in video editing and design gives me a practical eye for motion, t
 <p align="center">
   <a href="mailto:exoblade.dev@gmail.com">Email</a> •
   <a href="https://github.com/Exoblade-dev">GitHub</a> •
-  <a href="https://www.linkedin.com/in/som-anand-11bb97337/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/som-anand-1b1213398/">LinkedIn</a>
 </p>
 
 ---
