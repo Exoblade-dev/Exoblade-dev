@@ -1,49 +1,64 @@
-<h1 align="center">Sahil — Developer (Web • Game • Systems)</h1>
-<h3 align="center">Building reliable software with a focus on clarity, performance, and growth.</h3>
+<h1 align="center">Sahil — Frontend Developer | Python Developer</h1>
+<h3 align="center">Building clean, modern, and scalable web experiences.</h3>
 
 ---
 
-## Profile
+## 👨‍💻 About Me
 
-I am a developer working across front-end engineering, game development, and systems programming.  
-My approach is straightforward: understand fundamentals, build consistently, and refine through iteration.
+I am a developer focused on **frontend engineering** and **Python-based automation**.  
+I specialize in building responsive UIs, clean component architectures, and practical web applications.
 
-I work primarily with JavaScript/React and C++, while expanding into backend engineering and Linux-based workflows.  
-My background in video editing and design gives me a practical eye for motion, timing, and user experience.
+My approach:  
+**master fundamentals → build real projects → iterate until it's solid.**
 
----
-
-## Core Competencies
-
-- **Front-End Engineering:** React, modern JavaScript, component-driven architecture  
-- **Systems & Programming:** C, C++, Python  
-- **Game Development:** Unity scripting, prototype mechanics, input systems  
-- **Design & Workflow:** Figma, UI structure, motion fundamentals  
-- **Tooling:** Git, GitHub, Linux, VS Code  
+I don’t chase every tech under the sun anymore —  
+my core expertise is **Web Development** backed by Python where needed.
 
 ---
 
-## Current Engineering Focus
+## 🚀 Core Skills
 
-- Strengthening backend fundamentals and API development  
-- Deep dive into **C++** for performance, memory, and DSA  
-- Building consistent, scalable interfaces in React  
-- Expanding Linux knowledge for development and cybersecurity  
-- Prototyping gameplay systems and interaction loops  
+### **Frontend Development**
+- HTML, CSS, JavaScript  
+- React.js (components, hooks, routing)  
+- Tailwind CSS  
+- Responsive UI/UX  
+- REST API integration  
+
+### **Python Development**
+- Automation scripts  
+- API consumption  
+- Small backend utilities  
+- Data handling basics  
+
+### **Tools & Workflow**
+- Git, GitHub  
+- VS Code  
+- Postman  
+- Figma (basic UI drafts)  
+- Linux (development workflows)
 
 ---
 
-## What I’m Actively Working Toward
+## 🎯 Current Focus
 
-- Delivering full-stack applications using React with a production backend  
-- Improving algorithmic thinking and problem-solving in C++  
-- Gaining operational fluency in Linux and shell scripting  
-- Publishing a small, focused game prototype  
-- Contributing meaningfully to open-source projects  
+- Building strong real-world frontend projects  
+- Deepening React skills (state, optimization, architecture)  
+- Using Python for automation and backend logic  
+- Improving code structure, readability, and maintainability  
 
 ---
 
-## Contact
+## 📌 What I'm Working Toward
+
+- A polished portfolio of frontend applications  
+- Production-ready React projects with clean UI  
+- Consistent automation tools using Python  
+- Contributions to open-source frontend or tooling projects  
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:exoblade.dev@gmail.com">Email</a> •
@@ -53,14 +68,16 @@ My background in video editing and design gives me a practical eye for motion, t
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Exoblade-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Exoblade-dev&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&theme=dark&hide_border=true&layout=compact)
 
-## Contribution Graph
+---
+
+## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Exoblade-dev&theme=react-dark&hide_border=true&area=true)
