@@ -43,15 +43,6 @@ My background in video editing and design gives me a practical eye for motion, t
 
 ---
 
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exoblade-dev&show_icons=true&hide_border=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ## Contact
 
 <p align="center">
