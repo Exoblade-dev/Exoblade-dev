@@ -11,9 +11,6 @@ I specialize in building responsive UIs, clean component architectures, and prac
 My approach:  
 **master fundamentals → build real projects → iterate until it's solid.**
 
-I don’t chase every tech under the sun anymore —  
-my core expertise is **Web Development** backed by Python where needed.
-
 ---
 
 ## 🚀 Core Skills
