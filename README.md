@@ -1,51 +1,49 @@
-<h1 align="center">Sahil — Web Developer & Game Developer</h1>
-<h3 align="center">Front-End Engineering | Game Development | Python</h3>
+<h1 align="center">Sahil — Developer (Web • Game • Systems)</h1>
+<h3 align="center">Building reliable software with a focus on clarity, performance, and growth.</h3>
 
 ---
 
-## About Me
+## Profile
 
-I’m a developer focused on building reliable, well-structured systems across web and game development.  
-My current work emphasizes:
+I am a developer working across front-end engineering, game development, and systems programming.  
+My approach is straightforward: understand fundamentals, build consistently, and refine through iteration.
 
-- Front-end engineering with **React**
-- Strong foundations in **C++**, **Python**, and problem-solving
-- Exploring **backend development** and **Linux** for production workflows
-- Applying clean design principles and practical UI/UX fundamentals
-
-I prioritize consistency, execution, and iterative improvement in every project.
+I work primarily with JavaScript/React and C++, while expanding into backend engineering and Linux-based workflows.  
+My background in video editing and design gives me a practical eye for motion, timing, and user experience.
 
 ---
 
-## Technical Skills
+## Core Competencies
 
-**Languages:** JavaScript, C++, C, Python  
-**Frontend:** React, HTML5, CSS3, Bootstrap  
-**Tools:** Git, GitHub, VS Code, Linux, Figma  
-**Game Development:** Unity (Core Scripting & Mechanic Prototyping)
-
----
-
-## Current Focus
-
-- Building production-ready front-end components with **React**
-- Strengthening backend fundamentals and API development
-- Developing small but complete game prototypes
-- Expanding Linux fluency for development and cybersecurity use cases
+- **Front-End Engineering:** React, modern JavaScript, component-driven architecture  
+- **Systems & Programming:** C, C++, Python  
+- **Game Development:** Unity scripting, prototype mechanics, input systems  
+- **Design & Workflow:** Figma, UI structure, motion fundamentals  
+- **Tooling:** Git, GitHub, Linux, VS Code  
 
 ---
 
-## 2025 Objectives
+## Current Engineering Focus
 
-- Deliver full-stack applications using React + backend services  
-- Release a functional indie game prototype  
-- Achieve strong proficiency in Linux and shell scripting  
-- Contribute to open-source projects  
-- Deepen core C++ and algorithmic problem-solving skills  
+- Strengthening backend fundamentals and API development  
+- Deep dive into **C++** for performance, memory, and DSA  
+- Building consistent, scalable interfaces in React  
+- Expanding Linux knowledge for development and cybersecurity  
+- Prototyping gameplay systems and interaction loops  
 
 ---
 
-## GitHub Analytics
+## What I’m Actively Working Toward
+
+- Delivering full-stack applications using React with a production backend  
+- Improving algorithmic thinking and problem-solving in C++  
+- Gaining operational fluency in Linux and shell scripting  
+- Publishing a small, focused game prototype  
+- Contributing meaningfully to open-source projects  
+
+---
+
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Exoblade-dev&show_icons=true&hide_border=true&theme=default" />
@@ -54,11 +52,10 @@ I prioritize consistency, execution, and iterative improvement in every project.
 
 ---
 
-## Connect
+## Contact
 
 <p align="center">
-  <a href="https://github.com/Exoblade-dev">GitHub</a> •
-  <a href="https://www.linkedin.com/in/som-anand-11bb97337/">LinkedIn</a> •
   <a href="mailto:exoblade.dev@gmail.com">Email</a> •
-  <a href="https://www.youtube.com/@Exoblade7">YouTube</a>
+  <a href="https://github.com/Exoblade-dev">GitHub</a> •
+  <a href="https://www.linkedin.com/in/som-anand-11bb97337/">LinkedIn</a>
 </p>
