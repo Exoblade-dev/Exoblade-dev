@@ -1,4 +1,4 @@
-<h1 align="center">Sahil — Frontend Developer | Python Developer</h1>
+<h1 align="center">Som Anand — Frontend Developer | Python Developer</h1>
 <h3 align="center">Building clean, modern, and scalable web experiences.</h3>
 
 ---
