@@ -1,80 +1,54 @@
-<h1 align="center">Som Anand — Frontend Developer | Python Developer</h1>
-<h3 align="center">Building clean, modern, and scalable web experiences.</h3>
+# Som Anand
 
----
+**Frontend Developer | Python Developer**
 
-## 👨‍💻 About Me
+I build responsive, interactive web experiences with a focus on clean UI, maintainable code, and practical product development. My work spans modern frontend development, animation-driven interfaces, and Python-based tooling.
 
-I am a developer focused on **frontend engineering** and **Python-based automation**.  
-I specialize in building responsive UIs, clean component architectures, and practical web applications.
+## Technical Skills
 
-My approach:  
-**master fundamentals → build real projects → iterate until it's solid.**
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Responsive Design, REST APIs
 
----
+**Programming:** JavaScript, TypeScript, Python
 
-## 🚀 Core Skills
+**Tools:** Git, GitHub, VS Code, Postman, Figma, Linux
 
-### **Frontend Development**
-- HTML, CSS, JavaScript  
-- React.js (components, hooks, routing)  
-- Tailwind CSS  
-- Responsive UI/UX  
-- REST API integration  
+## Selected Work
 
-### **Python Development**
-- Automation scripts  
-- API consumption  
-- Small backend utilities  
-- Data handling basics  
+### Cuberto Clone
 
-### **Tools & Workflow**
-- Git, GitHub  
-- VS Code  
-- Postman  
-- Figma (basic UI drafts)  
-- Linux (development workflows)
+A frontend recreation focused on reproducing a high-end agency-style interface with detailed visual interactions, responsive layouts, and web animations.
 
----
+**Focus:** UI implementation · animations · responsive design · interaction design
 
-## 🎯 Current Focus
+### Absolute Calci
 
-- Building strong real-world frontend projects  
-- Deepening React skills (state, optimization, architecture)  
-- Using Python for automation and backend logic  
-- Improving code structure, readability, and maintainability  
+A production-oriented scientific calculator built as a functional web application, with support for mathematical expressions, scientific operations, responsive UI, testing, and SEO-focused architecture.
 
----
+**Focus:** React/Next.js · application architecture · mathematical logic · testing · SEO
 
-## 📌 What I'm Working Toward
+### Cynthia Ugwu Clone
 
-- A polished portfolio of frontend applications  
-- Production-ready React projects with clean UI  
-- Consistent automation tools using Python  
-- Contributions to open-source frontend or tooling projects  
+A recreation of the Cynthia Ugwu portfolio experience, focused on translating a highly visual design into a responsive interactive website.
 
----
+**Focus:** frontend development · animation · interaction · responsive UI
 
-## 📫 Contact
+### Crop Lab
 
-<p align="center">
-  <a href="mailto:exoblade.dev@gmail.com">Email</a> •
-  <a href="https://github.com/Exoblade-dev">GitHub</a> •
-  <a href="https://www.linkedin.com/in/som-anand-1b1213398/">LinkedIn</a>
-</p>
+A web project exploring a practical product interface around agriculture and crop-related information.
 
----
+**Focus:** frontend development · responsive interfaces · product-oriented UI
 
-## 📊 GitHub Stats
+## Engineering Focus
 
-![](https://github-readme-stats.vercel.app/api?username=Exoblade-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+* Building production-oriented React and Next.js applications
+* Creating responsive interfaces across desktop and mobile
+* Component-based frontend architecture
+* Interactive UI and web animation
+* API integration and application logic
+* Testing and maintainable code
+* Performance and technical SEO
 
-![](https://nirzak-streak-stats.vercel.app/?user=Exoblade-dev&theme=dark&hide_border=true)
+## Contact
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Exoblade-dev&theme=react-dark&hide_border=true&area=true)
+* **GitHub:** [github.com/Exoblade-dev](https://github.com/Exoblade-dev)
+* **LinkedIn:** [linkedin.com/in/som-anand-1b1213398](https://www.linkedin.com/in/som-anand-1b1213398/)
